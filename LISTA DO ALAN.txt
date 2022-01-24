@@ -1,0 +1,1 @@
+http://dns.padtv.net:80/get.php?username=Jessica2022&password=t67bv3vc56k3&type=m3u&output=ts
